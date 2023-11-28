@@ -31,4 +31,8 @@ Application
 
 ![screenshot_2](https://github.com/ahmed-kkamel/World-Wise/assets/109251770/0201b28e-4b90-413d-bc10-1317ffd9a345)
 
+![image](https://github.com/ahmed-kkamel/World-Wise/assets/109251770/3719330b-4164-4a2b-bcd8-4080f70a2d5e)
 
+![image](https://github.com/ahmed-kkamel/World-Wise/assets/109251770/55762598-f102-4996-8ae6-98529229e6ed)
+
+![image](https://github.com/ahmed-kkamel/World-Wise/assets/109251770/a24627d1-7c1a-48b9-aa91-f5055b174f11)

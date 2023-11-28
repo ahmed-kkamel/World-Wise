@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Bourrou",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-18T18:24:19.530Z",
+      "notes": "",
+      "position": {
+        "lat": "45.058001435398296",
+        "lng": "0.6152343750000001"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Bay of Algiers",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-11-18T22:10:57.928Z",
+      "notes": "",
+      "position": {
+        "lat": "36.79169061907076",
+        "lng": "3.1201171875"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Asia/Gaza",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2023-11-18T22:11:58.799Z",
+      "notes": "Save Gaza",
+      "position": {
+        "lat": "31.484893386890164",
+        "lng": "34.36523437500001"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Ramat Negev Regional Council",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2023-11-18T22:12:38.313Z",
+      "notes": "Stop fucking killing children\n",
+      "position": {
+        "lat": "30.939924331023445",
+        "lng": "34.65087890625001"
+      },
+      "id": 98443209
+    }
+  ]
+}

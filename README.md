@@ -23,5 +23,12 @@ $ npm run dev
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Home Page
+
+![screenshot_1](https://github.com/ahmed-kkamel/World-Wise/assets/109251770/6bf4e1a0-8e49-4142-8ca6-27a03203d3c4)
+
+Application
+
+![screenshot_2](https://github.com/ahmed-kkamel/World-Wise/assets/109251770/0201b28e-4b90-413d-bc10-1317ffd9a345)
+
 
